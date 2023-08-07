@@ -6,7 +6,7 @@
 
 
 # 🤖 About me
-- 👨‍💻💻 frontend developer || software developer
+- 👨‍💻💻 frontend || software developer
 - 🗺️ located in Poland
 - 📖</> I have successfully completed my Engineering degree with a specialization in Web Development.
 - 🗣️ English, Polish, Russian
@@ -60,11 +60,11 @@
     <tr>
       <td>
       <p align="center">
-        <img height="50%" width="auto" src ="https://github-profile-trophy.vercel.app/?username=ak-hu&theme=onedark&column=4">
+        <img height="50%" width="auto" src ="https://github-profile-trophy.vercel.app/?username=Pandakitkat&theme=onedark&column=4">
       </p>
       </td>
       <td>
-        <table align="center"><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/ak-hu/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/ak-hu/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/ak-hu/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+        <table align="center"><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/Pandakitkat/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/Pandakitkat/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/Pandakitkat/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
       </td>
     </tr>
   </tbody>
