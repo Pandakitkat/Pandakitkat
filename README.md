@@ -11,7 +11,7 @@
 - 📖</> I have successfully completed my Engineering degree with a specialization in Web Development.
 - 🗣️ English, Polish, Russian
 - 💡 ask me any question [here](https://github.com/Pandakitkat/questions/issues)
-- https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white kitkatpandamanic@gmail.com
+- 📁 kitkatpandamanic@gmail.com
 
 # 🛠 Tech Stack
 
@@ -48,7 +48,9 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api?username=ak-hu&show_icons=true&count_private=true&theme=merko&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ak-hu&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=6">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ak-hu&theme=merko&hide_border=true&background=FFFFFF00">
+  <img src =" https://github-readme-stats.vercel.app/api?username=Pandakitkat&theme=blue-green">
+ 
+  
 </p>
 
 
