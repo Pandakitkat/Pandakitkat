@@ -11,7 +11,7 @@
 - 👨‍💻💻 frontend || software developer
 - 🗺️ located in Poland
 - 📖</> I have successfully completed my Engineering degree with a specialization in Web Development.
-- 🗣️ English, Polish, Russian
+- 🗣️ English, Polish, Russian, Uzbek
 - 💡 ask me any question [here](https://github.com/Pandakitkat/questions/issues)
 - 📁 kitkatpandamanic@gmail.com
 
