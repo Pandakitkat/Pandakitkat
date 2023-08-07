@@ -1,17 +1,17 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=68B587&lines=Hi+there!;I'm+Artem+👋&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?color=f79d97&lines=Hey+Buddies!;I'm+Umid+✌️&center=true&size=30">
   </a>
 </h1>
 
 
-# 👽 About me
-- 🎨 frontend developer 
-- 📍 based in Poland
-- 🧑🏼‍💻 studying for an Engineer degree on Web development specialisation
-- 🗣 English, Polish, Russian
-- 💬 ask me any question [here](https://github.com/ak-hu/ak-hu/issues)
-- 📫 git.ak.hu@gmail.com
+# 🤖 About me
+- 👨‍💻💻 frontend developer || software developer
+- 🗺️ located in Poland
+- 📖</> I have successfully completed my Engineering degree with a specialization in Web Development.
+- 🗣️ English, Polish, Russian
+- 💡 ask me any question [here](https://github.com/ak-hu/ak-hu/issues)
+- 📤 kitkatpandamanic@gmail.com
 
 # 🛠 Tech Stack
 
