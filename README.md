@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-
+<p align="center">
 # 🤖 About me
 - 👨‍💻💻 frontend || software developer
 - 🗺️ located in Poland
@@ -12,7 +12,7 @@
 - 🗣️ English, Polish, Russian
 - 💡 ask me any question [here](https://github.com/Pandakitkat/questions/issues)
 - 📁 kitkatpandamanic@gmail.com
-
+</p>
 # 🛠 Tech Stack
 
 - 👀 frontend： ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-circle&logo=javascript&logoColor=F7DF1E)
