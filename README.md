@@ -48,9 +48,9 @@
 
 # 📊  Actions 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api?username=Pandakitkat&show_icons=true&count_private=true&theme=blue-green&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pandakitkat&layout=compact&hide_border=true&theme=blue-green&bg_color=blue-green&langs_count=13">
-  <img src =" https://github-readme-stats.vercel.app/api?username=Pandakitkat&theme=blue-green">
+  <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api?username=Pandakitkat&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pandakitkat&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6">
+  <img src =" https://github-readme-stats.vercel.app/api?username=Pandakitkat&theme=radical">
  
   
 </p>
