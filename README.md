@@ -14,8 +14,8 @@
 
 # 🛠 Tech Stack
 
-- 👀 frontend： ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-circle&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=flat-circle&logo=react&logoColor=61DAFB)
+- 👀 languages： ![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat-circle&logo=C++&logoColor=white)
+![C#](https://img.shields.io/badge/C%20Sharp-239120.svg?style=flat-circle&logo=C-Sharp&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-circle&logo=redux&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-circle&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-circle&logo=html5&logoColor=white)
