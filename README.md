@@ -10,12 +10,12 @@
 - 🗺️ located in Poland
 - 📖</> I have successfully completed my Engineering degree with a specialization in Web Development.
 - 🗣️ English, Polish, Russian
-- 💡 ask me any question [here](https://github.com/ak-hu/ak-hu/issues)
-- 📤 kitkatpandamanic@gmail.com
+- 💡 ask me any question [here](https://github.com/Pandakitkat/questions/issues)
+- https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white kitkatpandamanic@gmail.com
 
 # 🛠 Tech Stack
 
-- 👾 frontend： ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-circle&logo=javascript&logoColor=F7DF1E)
+- 👀 frontend： ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-circle&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-circle&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-circle&logo=redux&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-circle&logo=jquery&logoColor=white)
