@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-# 🤖 About me
+# 🤖 About me 
 </p>
 
 - 👨‍💻💻 frontend || software developer
@@ -50,7 +50,7 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api?username=Pandakitkat&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pandakitkat&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6">
-  <img src =" https://github-readme-stats.vercel.app/api?username=Pandakitkat&theme=radical">
+   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Pandakitkat&theme=radical&hide_border=true&background=FFFFFF00">
  
   
 </p>
@@ -62,7 +62,7 @@
     <tr>
       <td>
       <p align="center">
-        <img height="50%" width="auto" src ="https://github-profile-trophy.vercel.app/?username=Pandakitkat&theme=onedark&column=4">
+        <img height="50%" width="auto" src ="https://github-profile-trophy.vercel.app/?username=Pandakitkat&theme=theme=radical&column=4">
       </p>
       </td>
       <td>
