@@ -62,7 +62,7 @@
     <tr>
       <td>
       <p align="center">
-        <img height="50%" width="auto" src ="https://github-profile-trophy.vercel.app/?username=Pandakitkat&theme=theme=radical&column=4">
+        <img height="50%" width="auto" src ="https://github-profile-trophy.vercel.app/?username=Pandakitkat&theme=radical&column=4">
       </p>
       </td>
       <td>
