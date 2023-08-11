@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-# 🤖 About me 
+# 🤖 About me.
 - 👨‍💻💻 frontend || software developer
 - 🗺️ located in Poland
 - 📖</> I have successfully completed my Engineering degree with a specialization in Web Development.
